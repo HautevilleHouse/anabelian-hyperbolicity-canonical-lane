@@ -1,0 +1,53 @@
+{
+  "constants": {
+    "eps_coh": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/ANABELIAN_HYPERBOLICITY_PREPRINT.md Appendix E.6; raw=0.0, ref=1.0, formula=eps_coh_raw",
+      "source": "artifacts/constants_extracted.json#eps_coh",
+      "source_section": "paper/ANABELIAN_HYPERBOLICITY_PREPRINT.md Appendix E.6",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 0.0
+    },
+    "kappa_compact": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/ANABELIAN_HYPERBOLICITY_PREPRINT.md Section 5.3 / Appendix C; raw=0.8032128514056224, ref=1.0, formula=1.0 / (1.0 + delta_comp_sup_raw)",
+      "source": "artifacts/constants_extracted.json#kappa_compact",
+      "source_section": "paper/ANABELIAN_HYPERBOLICITY_PREPRINT.md Section 5.3 / Appendix C",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 0.8032128514056224
+    },
+    "kappa_hyperbolic": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/ANABELIAN_HYPERBOLICITY_PREPRINT.md Section 4.5 / Appendix A; raw=1.0946500000000001, ref=1.0, formula=c_hyper_raw * hyper_density_raw - e_hyper_raw",
+      "source": "artifacts/constants_extracted.json#kappa_hyperbolic",
+      "source_section": "paper/ANABELIAN_HYPERBOLICITY_PREPRINT.md Section 4.5 / Appendix A",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.0946500000000001
+    },
+    "reconstruction_transfer": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/ANABELIAN_HYPERBOLICITY_PREPRINT.md Section 6.2 / Appendix E.4; raw=1.031658, ref=1.0, formula=c_reconstruction_raw * transfer_gain_raw - e_reconstruction_raw",
+      "source": "artifacts/constants_extracted.json#reconstruction_transfer",
+      "source_section": "paper/ANABELIAN_HYPERBOLICITY_PREPRINT.md Section 6.2 / Appendix E.4",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.031658
+    },
+    "rho_rigidity": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/ANABELIAN_HYPERBOLICITY_PREPRINT.md Section 6.1 / Appendix D; raw=1.079, ref=1.0, formula=rho_rigidity_raw",
+      "source": "artifacts/constants_extracted.json#rho_rigidity",
+      "source_section": "paper/ANABELIAN_HYPERBOLICITY_PREPRINT.md Section 6.1 / Appendix D",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.079
+    },
+    "sigma_section": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/ANABELIAN_HYPERBOLICITY_PREPRINT.md Section 5.2 / Appendix B; raw=1.075, ref=1.0, formula=section_floor_raw - reconstruction_loss_raw - restart_loss_raw",
+      "source": "artifacts/constants_extracted.json#sigma_section",
+      "source_section": "paper/ANABELIAN_HYPERBOLICITY_PREPRINT.md Section 5.2 / Appendix B",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.075
+    }
+  },
+  "updated_at_utc": "2026-03-13T03:58:50Z"
+}

@@ -1,0 +1,19 @@
+{
+  "extracted_source": "artifacts/constants_extracted.json",
+  "framework": "anabelian_hyperbolicity",
+  "generated_utc": "2026-03-13T03:58:50Z",
+  "promoted_constants": {
+    "eps_coh": 0.0,
+    "kappa_compact": 0.8032128514056224,
+    "kappa_hyperbolic": 1.0946500000000001,
+    "reconstruction_transfer": 1.031658,
+    "rho_rigidity": 1.079,
+    "sigma_section": 1.075
+  },
+  "promoted_stitch": {
+    "sigma_star_can": 1.054
+  },
+  "registry_path": "artifacts/constants_registry.json",
+  "schema_version": "2026-03-05",
+  "stitch_path": "artifacts/stitch_constants.json"
+}

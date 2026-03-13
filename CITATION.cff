@@ -1,0 +1,21 @@
+title: "Anabelian Hyperbolicity via Section-Reconstruction Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-05
+repository-code: "https://github.com/HautevilleHouse/anabelian-hyperbolicity-canonical-lane"
+url: "https://github.com/HautevilleHouse/anabelian-hyperbolicity-canonical-lane"
+license: None
+keywords:
+  - anabelian-geometry
+  - arithmetic-geometry
+  - hyperbolicity
+  - section-conjecture
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "Anabelian Hyperbolicity via Section-Reconstruction Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-05
