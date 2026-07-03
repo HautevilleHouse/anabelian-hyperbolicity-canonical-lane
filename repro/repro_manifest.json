@@ -7,7 +7,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "48ae93c038a72d8fb53b35e4f452d8254137756e1ff452007608b37978f1f7de"
+      "sha256": "e4ed7d4d3a9c8ebbac6941ad63e372d3a6ab98358796d178515c26a289b35e1f"
     },
     {
       "path": "artifacts/constants_extracted.json",
@@ -63,7 +63,7 @@
     },
     {
       "path": "paper/ANABELIAN_HYPERBOLICITY_PREPRINT.md",
-      "sha256": "e6b535eab6cad6f9a8d02e8f190da37596b96ed925b3bd5f2f268ed21c3ccbd4"
+      "sha256": "3b459487df5befe19418bff7c48db7523a668eb960504a71d43033f14a154389"
     },
     {
       "path": "repro/REPRO_PACK.md",
@@ -106,7 +106,7 @@
       "sha256": "6e924c844929ff1384e024f82774e018265cf648784f3eb09abb9facdb649e4f"
     }
   ],
-  "generated_utc": "2026-07-02T16:57:55Z",
+  "generated_utc": "2026-07-03T01:17:13Z",
   "lane": "manifold_constrained",
   "runtime_certificate_path": "repro/certificate_runtime.json",
   "schema_version": "2026-03-05"

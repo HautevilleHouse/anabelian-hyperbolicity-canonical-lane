@@ -14,7 +14,7 @@ This repository is not a single primitive endpoint case. It coordinates an admis
 4. decomposition-group and local-global compatibility packages
 5. endpoint stitching across the declared anabelian-hyperbolic package
 
-The runtime surface certifies closure of the declared super-lane, not just one local example.
+The runtime surface establishes closure of the declared super-lane, not just one local example.
 
 ## Main Manuscript
 
