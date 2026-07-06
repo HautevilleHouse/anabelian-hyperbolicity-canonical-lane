@@ -6,7 +6,7 @@ proving persistence of the declared section, reconstruction, and hyperbolic endp
 
 ## Super-Repo Role
 
-This repository is not a single primitive endpoint case. It coordinates an admissible routed lattice whose native families are:
+This repository coordinates an admissible routed lattice whose native families are:
 
 1. section-conjecture and packet-reconstruction packages
 2. profinite and birational fundamental-group recovery packages
